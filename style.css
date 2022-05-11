@@ -47,3 +47,9 @@ img {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
 }
+
+@media screen and (max-height: 545px) {
+    .card {
+        margin: 20px 0 20px 0;
+    }
+}
