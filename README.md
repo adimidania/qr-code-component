@@ -1,15 +1,11 @@
 # QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+## 📝 About the challenge
 
-## The challenge
+This challenge is part of the [Frontend Mentor](https://www.frontendmentor.io/) platform. The objective is to create a QR code component that closely matches the provided design.
 
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
+## 🛠️ Skills needed
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Basic HTML and CSS skills are required to complete this challenge.
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
-
-## Where to find everything
-
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+**Made with so much 💗 by Dania** 
